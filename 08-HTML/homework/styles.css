@@ -1,6 +1,13 @@
-h1{color:red}
-    #thirdDiv {width:500px ; height: 600px ;background-color: aqua; padding: 50; border:5px dashed black; font-style: normal;}  
-    
-    img {width: 400px; height:400px }
+h1{color:red} 
+    img {width: 400px; 
+        height:200px }
+    #thirdDiv {
+        width:500px ; 
+        height: 600px ;
+        background-color: rgb(245, 4, 4);
+        padding: 50px; 
+        border:5px dashed black;
+        margin: auto;}  
 
-     #spanid {font-size: 16px; margin: 50; ;}
+    #spanId {font-size: 18px;
+             margin: 50px;}
